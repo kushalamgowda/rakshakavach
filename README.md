@@ -37,6 +37,7 @@ AI Integration (if used)
 
 <img width="405" height="796" alt="Screenshot 2026-05-15 123352" src="https://github.com/user-attachments/assets/f7380980-7467-497d-9683-4770d6f35650" />
 
+<img width="438" height="790" alt="Screenshot 2026-05-15 123845" src="https://github.com/user-attachments/assets/aeea1645-19e1-4e62-97b1-345cca107279" />
 
 
 
