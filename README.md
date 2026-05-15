@@ -23,8 +23,20 @@ Android Studio
 XML (UI Design)
 Firebase / Local Storage (if used)
 AI Integration (if used)
+<img width="1180" height="797" alt="Screenshot 2026-05-15 123129" src="https://github.com/user-attachments/assets/b42a4903-70e2-4204-bdf4-133b51c77f99" />
 
-<img width="412" height="792" alt="Screenshot 2026-05-15 123300" src="https://github.com/user-attachments/assets/4e25324d-c5e6-4051-a270-101c3c920790" />
+<img width="1205" height="785" alt="Screenshot 2026-05-15 123148" src="https://github.com/user-attachments/assets/bce976a2-7712-45f8-a3b2-5f2cc38834a9" />
+
+<img width="443" height="790" alt="Screenshot 2026-05-15 123213" src="https://github.com/user-attachments/assets/160cd585-6a22-47df-89a1-58cb90a29222" />
+
+<img width="412" height="795" alt="Screenshot 2026-05-15 123246" src="https://github.com/user-attachments/assets/d745b4f2-1abc-4f79-9cd3-771ec0e8c2ed" />
+
+<img width="412" height="792" alt="Screenshot 2026-05-15 123300" src="https://github.com/user-attachments/assets/f4c9e7d3-a42a-44ab-af1c-8ac7d054679b" />
+
+<img width="453" height="797" alt="Screenshot 2026-05-15 123334" src="https://github.com/user-attachments/assets/7ab66605-1b60-40b3-aa6d-34a28758da9b" />
+
+<img width="405" height="796" alt="Screenshot 2026-05-15 123352" src="https://github.com/user-attachments/assets/f7380980-7467-497d-9683-4770d6f35650" />
+
 
 
 
